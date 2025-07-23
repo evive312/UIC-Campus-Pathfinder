@@ -1,5 +1,5 @@
-// application.cpp <Starter Code>
-// <Your name>
+
+// <Edgar Viveros>
 //
 //
 // Adam T Koehler, PhD
