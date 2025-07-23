@@ -23,4 +23,13 @@ If the closest destination is unreachable, the algorithm automatically tries the
 
 <h2>Environment Used</h2>
 
-- <b>Ubuntu 22.04 / g++ 11</b> (tested)  
+- <b>Ubuntu 22.04 / g++ 11</b> (tested)
+<h2>Program walk-through:</h2>
+
+<p align="center">
+Launch program and load map, with Statistics after graph build. Program prompts for Person 1 and Person building. Then shows nearest nodes and chosen destination: :<br/>
+
+<br /><br />
+<img src="https://i.imgur.com/90kLT3u.jpeg" height="80%" width="80%" alt="Graph Stats"/>
+<br /><br />
+
