@@ -1,5 +1,5 @@
-// graph.h <Starter Code>
-// < Your name >
+
+// < Edgar Viveros  >
 //
 // Basic graph class using adjacency matrix representation.  Currently
 // limited to a graph with at most 100 vertices.
